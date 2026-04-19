@@ -84,7 +84,7 @@ export default function App() {
       {/* Header */}
       <div className="header">
         <div className="badge">ML-Powered Predictor</div>
-        <h1 className="title">Medical Insurance<br />Cost Estimator</h1>
+        <h1 className="title">Policy Pulse</h1>
         <p className="subtitle">Linear regression model · R² 0.74 on test data</p>
       </div>
 
